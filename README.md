@@ -1,4 +1,4 @@
-# Customer_churn_dashboard Customer Churn Analysis - Business KPI Dashboard
+# Customer Churn Analysis - Business KPI Dashboard
 1. Project Overview
 The Customer Churn Analysis project uses Microsoft Power Bl to analyse customer churn, retention, tenure, and revenue risk. The dashboard presents key business performance indicators and visualizations to help understand customer behaviour and identify areas where customer retention can be improved.
 2. Objective
