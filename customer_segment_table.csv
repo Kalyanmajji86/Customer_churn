@@ -1,0 +1,16 @@
+CustomerID,TenureMonths,MonthlyCharges,SupportTickets,RiskScore,RiskLevel,NeedsDataReview,CustomerSegment
+CUST-1001,12,49.99,3,70,High,False,New Customers Needing Support
+CUST-1002,24,79.99,1,35,Medium,False,Regular Monitoring
+CUST-1003,6,49.99,5,70,High,False,New Customers Needing Support
+CUST-1004,36,149.99,0,20,Low,False,Long-Tenure Customers
+CUST-1005,8,79.99,4,90,High,False,New Customers Needing Support
+CUST-1006,18,49.99,2,15,Low,False,Regular Monitoring
+CUST-1007,3,49.99,6,70,High,False,New Customers Needing Support
+CUST-1008,48,149.99,1,35,Medium,False,Long-Tenure Customers
+CUST-1009,15,79.99,2,35,Medium,False,Regular Monitoring
+CUST-1010,4,49.99,4,70,High,False,New Customers Needing Support
+CUST-1011,30,149.99,0,20,Low,False,Long-Tenure Customers
+CUST-1012,14,79.99,3,55,Medium,False,Regular Monitoring
+CUST-1013,22,49.99,1,15,Low,False,Regular Monitoring
+CUST-1014,2,49.99,5,70,High,False,New Customers Needing Support
+CUST-1015,40,149.99,1,35,Medium,False,Long-Tenure Customers
